@@ -67,3 +67,13 @@ body {
   transform: scale(1.03);
   transition: 1.5s;
 }
+
+.start__header {
+  position: absolute;
+  max-width: 1760px;
+  display: flex;
+}
+
+.start__header .start__header-menu .start__header-menu-items {
+  display: flex;
+}
