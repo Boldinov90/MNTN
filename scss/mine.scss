@@ -11,13 +11,17 @@ body{
 .wrapper{
     position: relative;
     width: 1920px;
+    height: 4600px;
     margin: 0 auto;
+    // -webkit-box-shadow: 0px 0px 56px 56px rgba(0, 0, 0, 0.29);
+    // -moz-box-shadow: 0px 0px 56px 56px rgba(0, 0, 0, 0.29);
+    // box-shadow: 0px 0px 56px 56px rgba(0, 0, 0, 0.29);
 }
-.container{
-    max-width: 1440px;
-    margin: 0 auto;
-    padding-left: 15px;
-    padding-right: 15px;
-}
+// .container{
+//     max-width: 1440px;
+//     margin: 0 auto;
+//     padding-left: 15px;
+//     padding-right: 15px;
+// }
 
 @import "start";

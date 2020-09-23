@@ -11,14 +11,8 @@ body {
 .wrapper {
   position: relative;
   width: 1920px;
+  height: 4600px;
   margin: 0 auto;
-}
-
-.container {
-  max-width: 1440px;
-  margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 .start .start__cloud {
